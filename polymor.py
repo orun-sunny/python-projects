@@ -13,6 +13,8 @@ class Goat(Animal):
         super().__init__(name)
 
      def make_sound(self):
+        print('beh beh')
+
         
     
 
